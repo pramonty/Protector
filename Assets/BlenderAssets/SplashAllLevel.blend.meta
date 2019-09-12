@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 8b32e03ef3ea6d04a9a65dbd02a7d5c4
+timeCreated: 1558506350
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Body
+    100002: Creeper
+    100004: Cylinder
+    100006: HeadSphere
+    100008: L1Tower
+    100010: L2Tower
+    100012: L3Boss
+    100014: L3Tower
+    100016: L4Boss
+    100018: L4Tower
+    100020: L5Boss
+    100022: L5Tower
+    100024: LeftSphere
+    100026: RightSphere
+    100028: SnakeShip
+    100030: //RootNode
+    100032: StarShip
+    100034: TowerL3
+    100036: Text
+    400000: Body
+    400002: Creeper
+    400004: Cylinder
+    400006: HeadSphere
+    400008: L1Tower
+    400010: L2Tower
+    400012: L3Boss
+    400014: L3Tower
+    400016: L4Boss
+    400018: L4Tower
+    400020: L5Boss
+    400022: L5Tower
+    400024: LeftSphere
+    400026: RightSphere
+    400028: SnakeShip
+    400030: //RootNode
+    400032: StarShip
+    400034: TowerL3
+    400036: Text
+    2100000: TowerBody_001
+    2100002: HeadGear
+    2100004: BaseMaterial
+    2100006: TowerBody
+    2100008: TowerMaterial
+    2100010: L5Tower
+    2100012: BaseMaterial_002
+    2100014: GreenStripes
+    2100016: Green
+    2100018: Red
+    2100020: Black
+    2100022: Material
+    2100024: L5BossMat
+    2100026: Diamond
+    2100028: MossTest
+    2100030: Creeper
+    2100032: Body
+    2100034: Heads_001
+    2100036: unnamed
+    2300000: Body
+    2300002: Creeper
+    2300004: Cylinder
+    2300006: HeadSphere
+    2300008: L1Tower
+    2300010: L2Tower
+    2300012: L3Boss
+    2300014: L4Boss
+    2300016: L4Tower
+    2300018: L5Boss
+    2300020: L5Tower
+    2300022: LeftSphere
+    2300024: RightSphere
+    2300026: StarShip
+    2300028: TowerL3
+    2300030: Text
+    3300000: Body
+    3300002: Creeper
+    3300004: Cylinder
+    3300006: HeadSphere
+    3300008: L1Tower
+    3300010: L2Tower
+    3300012: L3Boss
+    3300014: L4Boss
+    3300016: L4Tower
+    3300018: L5Boss
+    3300020: L5Tower
+    3300022: LeftSphere
+    3300024: RightSphere
+    3300026: StarShip
+    3300028: TowerL3
+    3300030: Text
+    4300000: L4Tower
+    4300002: L2Tower
+    4300004: L1Tower
+    4300006: L5Tower
+    4300008: StarShip
+    4300010: L3Boss
+    4300012: L4Boss
+    4300014: L5Boss
+    4300016: Cylinder
+    4300018: TowerL3
+    4300020: Creeper
+    4300022: Body
+    4300024: HeadSphere
+    4300026: LeftSphere
+    4300028: RightSphere
+    4300030: Text
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,43 @@
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\Assembly-CSharp.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\nunit.framework.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEditor.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEngine.Advertisements.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEngine.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEngine.Purchasing.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEngine.TestRunner.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEngine.Timeline.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEngine.UI.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\Unity.Cecil.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\Unity.DataContract.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\ExCSS.Unity.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\Unity.CecilTools.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEngine.xml
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEditor.xml
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEngine.UI.xml
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEngine.TestRunner.xml
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\nunit.framework.xml
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEngine.Timeline.xml
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\Oganized Content\Projects\Protector\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+F:\Oganized Content\Projects\Protector\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\Oganized Content\Projects\Protector\obj\Debug\Assembly-CSharp.dll
+F:\Oganized Content\Projects\Protector\obj\Debug\Assembly-CSharp.pdb
+F:\Oganized_Content\Projects\Protector\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\Oganized_Content\Projects\Protector\obj\Debug\Assembly-CSharp.dll
+F:\Oganized_Content\Projects\Protector\obj\Debug\Assembly-CSharp.pdb
